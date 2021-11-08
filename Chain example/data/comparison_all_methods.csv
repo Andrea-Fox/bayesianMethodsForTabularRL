@@ -1,0 +1,3 @@
+,mean,Standard deviation
+"('greedy_selection', 'moment_updating', 0.5, 1.5, 1.5, 1)",863.6666666666666,31.47838764754143
+"('q_value_sampling', 'moment_updating', 0.5, 1.5, 1.5, 1)",988.0,19.30457631409368
